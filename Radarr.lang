@@ -1,0 +1,71 @@
+[en-us]
+name = "Radarr"
+auth = "Radarr"
+descript = "Fork of Sonarr for Movies"
+release_note = "Bundles Radarr v6.4.4.10685 packed from source"
+important    = ""
+
+[zh-cn]
+name = "Radarr"
+auth = "Radarr"
+descript = "Fork of Sonarr for Movies"
+
+[zh-hk]
+name = "Radarr"
+auth = "Radarr"
+descript = "Fork of Sonarr for Movies"
+
+[ja-jp]
+name = "Radarr"
+auth = "Radarr"
+descript = "Fork of Sonarr for Movies"
+
+[de-de]
+name = "Radarr"
+auth = "Radarr"
+descript = "Fork of Sonarr for Movies"
+
+[fr-fr]
+name = "Radarr"
+auth = "Radarr"
+descript = "Fork of Sonarr for Movies"
+
+[it-it]
+name = "Radarr"
+auth = "Radarr"
+descript = "Fork of Sonarr for Movies"
+
+[es-es]
+name = "Radarr"
+auth = "Radarr"
+descript = "Fork of Sonarr for Movies"
+
+[ko-kr]
+name = "Radarr"
+auth = "Radarr"
+descript = "Fork of Sonarr for Movies"
+
+[hu-hu]
+name = "Radarr"
+auth = "Radarr"
+descript = "Fork of Sonarr for Movies"
+
+[pl-pl]
+name = "Radarr"
+auth = "Radarr"
+descript = "Fork of Sonarr for Movies"
+
+[ru-ru]
+name = "Radarr"
+auth = "Radarr"
+descript = "Fork of Sonarr for Movies"
+
+[tr-tr]
+name = "Radarr"
+auth = "Radarr"
+descript = "Fork of Sonarr for Movies"
+
+[pt-pt]
+name = "Radarr"
+auth = "Radarr"
+descript = "Fork of Sonarr for Movies"
